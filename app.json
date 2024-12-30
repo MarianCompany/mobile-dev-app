@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "221-321_Самойленко_Марк",
+    "slug": "snack-4f7bed38-2e57-401b-aa56-554916986e4d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    }
+  }
+}
